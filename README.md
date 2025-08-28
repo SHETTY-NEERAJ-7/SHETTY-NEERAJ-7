@@ -65,7 +65,7 @@ Python | Random Forest | Decision Trees
 
 ## 💻 Experience  
 
-🔸 *Software Lead – AirPulse Project (NAIN 2.0 Funded)*  
+🔸 *ML Engineer – AirPulse Project (NAIN 2.0 Funded)*  
 - Integrated *Bluetooth hardware with React Native app*  
 - Implemented *ML-based anomaly detection* for real-time monitoring  
 
