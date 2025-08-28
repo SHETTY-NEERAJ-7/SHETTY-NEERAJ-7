@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 Achievements  
-![Hackathons](https://img.shields.io/badge/Hackathons-Finalist_(SIH_%26_IEEE)-purple)  
+
 ![Funding](https://img.shields.io/badge/Project_Funding-₹5_Lakh-green)  
 ![Leadership](https://img.shields.io/badge/Leadership-VP_Zerone_Association-blue)  
 ![Awards](https://img.shields.io/badge/Arduino-1st_Place-orange)  
@@ -105,9 +105,6 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SHETTY-NEERAJ-7/SHETTY-NEERAJ-7/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p> fix the bug and give me other animations related but it should be best unique like One animation related to coding
 
 
 ---
