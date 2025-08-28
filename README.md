@@ -51,8 +51,7 @@
 
 🔹 *AirPulse – Wireless AI-Powered Stethoscope (Govt. Funded ₹5L)*  
 Arduino | React Native | Node.js | MongoDB | ML  
-- IoT + ML based health monitoring with anomaly detection  
-[🔗 Repo](#)  
+- IoT + ML based health monitoring with anomaly detection    
 
 🔹 *Predictive Analytics – Insurance Fraud Detection*  
 Python | ML | Scikit-learn | Pandas  
