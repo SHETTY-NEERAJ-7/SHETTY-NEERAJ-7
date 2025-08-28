@@ -63,7 +63,7 @@ Python | Random Forest | Decision Trees
 
 ---
 
-## 🧑‍💻 Experience  
+## 💻 Experience  
 
 🔸 *Software Lead – AirPulse Project (NAIN 2.0 Funded)*  
 - Integrated *Bluetooth hardware with React Native app*  
@@ -113,7 +113,7 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
 
 ## ✨ Daily Inspiration  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7FF00&center=true&vCenter=true&width=800&lines=“Code+isn’t+just+written,+it’s+crafted.”;“Every+bug+fixed+is+a+step+towards+mastery.”;“Build+projects+that+solve+real+problems.”;“Learning+never+stops+in+tech.”;“Collaboration+fuels+innovation.”" alt="Motivational Quotes"/>
 </p>
 
 ---
