@@ -101,21 +101,13 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
 ---
 
 ## ⚡ Fun Animations  
-
 <p align="center">
-  <!-- Developer at work animation -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 <p align="center">
-  <!-- Matrix-style coding rain -->
-  <img src="https://i.gifer.com/7VE.gif" width="400" alt="Matrix Code Rain"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Snake Contribution Animation (fixed) -->
-  <img src="https://github.com/SHETTY-NEERAJ-7/SHETTY-NEERAJ-7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+  <img src="https://raw.githubusercontent.com/SHETTY-NEERAJ-7/SHETTY-NEERAJ-7/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p> fix the bug and give me other animations related but it should be best unique like One animation related to coding
 
 
 ---
