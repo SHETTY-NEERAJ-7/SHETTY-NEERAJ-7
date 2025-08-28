@@ -100,14 +100,27 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
 
 ---
 
-## ⚡ Fun Animations  
+## ⚡ Fun Animations
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <!-- Clean coding / typing animation -->
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="coding-typing" width="360" />
+
+  <!-- Subtle matrix / data-visual vibe -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="matrix-rain" width="230" />
+
+  <!-- Focused developer workflow -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="developer-workflow" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHETTY-NEERAJ-7/SHETTY-NEERAJ-7/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <!-- Contribution grid snake (requires GitHub action or generated asset).
+       Replace YOUR_GITHUB_USERNAME with your GitHub username if you host this SVG yourself. -->
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+       alt="contribution-snake" width="700" />
 </p>
+
+---
 
 ---
 
