@@ -100,21 +100,6 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
 
 ---
 
-## 🏅 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHETTY-NEERAJ-7&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🌟 Featured Projects  
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SHETTY-NEERAJ-7&repo=AirPulse&theme=radical"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SHETTY-NEERAJ-7&repo=Fraud-Detection-ML&theme=radical"/></a>
-</p>
-
----
-
 ## ⚡ Fun Animations  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
