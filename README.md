@@ -91,15 +91,6 @@ B.E. in ISE (2022 – 2026) | *CGPA: 7.1/10*
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHETTY-NEERAJ-7&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHETTY-NEERAJ-7&theme=radical&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHETTY-NEERAJ-7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160"/>
-</p>
-
----
-
 ## ⚡ Fun Animations  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
