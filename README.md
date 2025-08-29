@@ -50,7 +50,7 @@
 ## 🏗 Projects  
 
 🔹 *AirPulse – Wireless AI-Powered Stethoscope (Govt. Funded ₹5L)*  
-Arduino | React Native | Node.js | MongoDB | ML  
+STM 32 | React Native | Node.js | MongoDB | ML  
 - IoT + ML based health monitoring with anomaly detection    
 
 🔹 *Predictive Analytics – Insurance Fraud Detection*  
